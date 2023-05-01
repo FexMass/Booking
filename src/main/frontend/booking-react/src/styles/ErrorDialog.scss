@@ -1,0 +1,15 @@
+.error-dialog {
+  & .MuiDialogTitle-root {
+    background-color: red;
+    color: white;
+  }
+  & .MuiDialogContent-root {
+    padding: 16px;
+  }
+  & .MuiDialogContentText-root {
+    color: black;
+  }
+  & .MuiDialogActions-root {
+    padding: 16px;
+  }
+}
