@@ -7,7 +7,7 @@ JDK 17 and NPM (9.6.5 was used)
 run with mvn spring-boot:run
 
 Build was optimized, so its one command run for front end and back end together.
-Application are currently run on localhost:8080
+Application will run on localhost:8080
 
 #Java/React task
 
