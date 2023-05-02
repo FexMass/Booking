@@ -17,11 +17,11 @@ Bookings can be cancelled and rebooked. Blocks can be created and deleted.
 Have some logic in place to prevent double (overlapping) bookings.
 
 A single webpage that allows a user to create a booking. The following
-operations must be present:
+operations must be present:\
   ● Create a booking\
   ● Read a booking\
   ● Update a booking\
-  ● Delete a booking\
+  ● Delete a booking
   
 Database\
 H2 as In-memory DB.
