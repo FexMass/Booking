@@ -18,10 +18,10 @@ Have some logic in place to prevent double (overlapping) bookings.
 
 A single webpage that allows a user to create a booking. The following
 operations must be present:
-  ● Create a booking
-  ● Read a booking
-  ● Update a booking
-  ● Delete a booking
+  ● Create a booking\
+  ● Read a booking\
+  ● Update a booking\
+  ● Delete a booking\
   
-Database
-In-memory volatile DB.
+Database\
+H2 as In-memory DB.
